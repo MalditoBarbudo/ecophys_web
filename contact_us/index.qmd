@@ -2,7 +2,7 @@
 title: "Ecosystem Physiology and Global Change"
 about:
   template: jolla
-  image: /img/bellota.webp
+  image: "../img/bellota.webp"
   image-width: 15em
   image-shape: round
   links:
