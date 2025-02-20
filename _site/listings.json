@@ -1,0 +1,20 @@
+[
+  {
+    "listing": "/team/index.html",
+    "items": []
+  },
+  {
+    "listing": "/art_and_science/index.html",
+    "items": [
+      "/art_and_science/bem.html"
+    ]
+  },
+  {
+    "listing": "/gallery/gallery.html",
+    "items": []
+  },
+  {
+    "listing": "/research_projects/projects.html",
+    "items": []
+  }
+]
