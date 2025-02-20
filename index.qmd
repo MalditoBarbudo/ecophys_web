@@ -2,7 +2,7 @@
 title: "Fisiologia Ecosistèmica i Canvi Global"
 about:
   template: marquee
-  image: /img/silhouettes.webp
+  image: img/silhouettes.webp
   links:
     - icon: envelope-at-fill
       text: Email
