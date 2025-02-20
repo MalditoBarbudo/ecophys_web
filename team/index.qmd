@@ -1,0 +1,40 @@
+---
+title: "Who are we?"
+listing:
+  - id: actual-members
+    contents: "../resources/scripts/actual_members.yml"
+    type: grid
+    grid-columns: 4
+    page-size: 52
+    sort: false
+    fields: [image, title, categories, description]
+    field-display-names:
+      title: "Name"
+      categories: "Position"
+      description: "Interests:"
+---
+
+##### We are a passionate group of researchers, technicians and students focused in delivering the best science possible
+
+## Active members
+
+::: {#actual-members}
+:::
+
+## Past members and collaborators
+
+```{r}
+#| classes: 'grid'
+#| echo: false
+#| warning: false
+#| results: asis
+source("../resources/scripts/load_members.R")
+past_members_html
+```
+
+## Posibles mejoras:
+
+  1. Fijar valores en el campo "Position" del excel, de esa manera cuando se
+  clicka en una categoria (i.e. "PhD Student") mostraria todas las personas de
+  esa categoria
+  2. Añadir la columna de image (en el excel o en el script)

@@ -1,0 +1,47 @@
+project:
+  type: website
+
+website:
+  navbar:
+    title: "EcoPhys"
+    logo: "/img/bellota.webp"
+    logo-alt: "EcoPhys"
+    left:
+      - href: team/index.qmd
+        text: Who are we?
+      - href: research_projects/projects.qmd
+        text: Research projects
+      - href: publications/index.qmd
+        text: Publications
+      - text: More
+        menu:
+          - href: art_and_science/index.qmd
+            text: "Art & Science"
+          - href: gallery/gallery.qmd
+            text: "Gallery"
+      - href: contact_us/index.qmd
+        text: "Contact us!"
+  favicon: "/img/bellota.webp"
+  open-graph: true
+  announcement:
+    icon: alarm-fill
+    dismissable: true
+    content: "**Alert** - This is a proof of concept. An important announcement can be placed here!!"
+    type: danger
+    position: below-navbar
+
+format:
+  html:
+    theme:
+      dark: darkly
+      light: litera
+    css: resources/styles.css
+    toc: false
+    page-layout: full
+    grid:
+      margin-width: 600px
+
+bibliography: publications/references.bib
+csl: resources/bib_styles/nature.csl
+# csl: resources/bib_styles/new-phytologist.csl
+

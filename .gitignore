@@ -1,0 +1,8 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+GROUP*
+.~lock*
+/.quarto/
+_site

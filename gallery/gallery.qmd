@@ -1,0 +1,17 @@
+---
+page-layout: full
+listing:
+  id: listing-gallery
+  template: gallery.ejs
+  contents:
+    - ../img/*.webp
+    - ../img/*/*.webp
+  sort-ui: false
+  filter-ui: false
+  categories: false
+---
+
+This is a photo gallery example for working with custom templates
+
+::: {#listing-gallery}
+:::

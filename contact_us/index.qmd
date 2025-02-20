@@ -1,0 +1,25 @@
+---
+title: "Ecosystem Physiology and Global Change"
+about:
+  template: jolla
+  image: /img/bellota.webp
+  image-width: 15em
+  image-shape: round
+  links:
+    - icon: envelope-at-fill
+      text: Email
+      href: /
+    - icon: box-arrow-up-right
+      text: CREAF Group Page
+      href: https://www.creaf.cat/recerca/ecophys-ecosystem-physiology-and-global-change
+    - icon: telephone-fill
+      text: "+34 XXXYYYZZZ"
+    - icon: pin-map-fill
+      text: "Edificio Ciencias, Campus Bellaterra, UAB. 08290"
+---
+
+## Contact us!
+
+Some text for contacting us!!
+
+

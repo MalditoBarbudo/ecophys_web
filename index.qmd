@@ -1,0 +1,43 @@
+---
+title: "Fisiologia Ecosistèmica i Canvi Global"
+about:
+  template: marquee
+  image: /img/silhouettes.webp
+  links:
+    - icon: envelope-at-fill
+      text: Email
+      href: /
+    - icon: box-arrow-up-right
+      text: CREAF Group Page
+      href: https://www.creaf.cat/recerca/ecophys-ecosystem-physiology-and-global-change
+---
+
+Global change is putting the world’s forests under tremendous pressure. Our group studies the functioning of trees and forests and their response to environmental changes. This is done by combining different approaches (observational, experimental, modelling) and scales (from individual organisms to global) in biomes ranging from Mediterranean to temperate and tropical forests.
+
+## Research topics
+
+  - The ecology of long distance transport systems in plants (xylem and phloem hydraulics).  
+  - The water and carbon economy of plants and their interactions.  
+  - Tree and forest responses to environmental stress, with a particular emphasis on drought and
+  nitrogen deposition effects.  
+  - The distribution and variability of plant functional traits and their role on vegetation function
+  and dynamics.  
+  - The provision of ecosystem services by forests, in the Mediterranean.
+
+
+## We work in
+
+  - Plant hydraulics (water potentials, xylem and phloem structure and hydraulic conductivities,
+  vulnerability to xylem embolism, etc.).  
+  - Concentrations of non-structural carbohydrates in plant tissues.  
+  - Gas-exchange (stomatal conductance, transpiration, assimilation, respiration) at the
+  leaf/soil/canopy levels.  
+  - Sap flow.  
+  - Stable isotopes (d15N, d18O, d17O, d13C, dD) in water, plant and soil samples.  
+  - Dendrochronology and forest growth dynamics.  
+  - Ecosystem scale measurements of water, CO2 and trace gas fluxes.  
+  - Forest demography.  
+  - Analysis of large scale ecological datasets (functional traits databases, national forest
+  inventories, etc.).  
+  - Statistical and mechanistic modelling: from tissue-level models of water transport in the xylem
+  network to organismal or ecosystem-level models of water and carbon fluxes.  

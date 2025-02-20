@@ -1,0 +1,28 @@
+---
+title: "Projects"
+listing:
+  
+  - id: projects
+    contents: "projects.yml"
+    type: default
+    sort: false
+    image-placeholder: "/img/default_project.jpg"
+    fields: [image, title, categories, description, author, funding]
+  
+  - id: old_projects
+    contents: "old_projects.yml"
+    type: default
+    sort: false
+    image-placeholder: "/img/default_project.jpg"
+    fields: [image, title, categories, description, author, funding]
+---
+
+## On going
+
+::: {#projects}
+:::
+
+## Finished
+
+::: {#old_projects}
+:::

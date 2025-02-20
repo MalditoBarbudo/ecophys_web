@@ -1,0 +1,23 @@
+- title: "DRASTIC"
+  author:
+    - "Mauricio Mencuccini"
+    - "Teresa Gimeno"
+    - "Víctor Granda"
+  categories:
+    - "hydraulics"
+    - "global change"
+    - "modelling"
+  description: "Tree water use and DRought responses: the roles of Allometry, water Storage and Transport under climate Change"
+  image: "/img/projects/orange_series.webp"
+  path: "/"
+
+- title: "TRACES"
+  author:
+    - "Jordi Martínez-Vilalta"
+    - "Eva Castells"
+  categories:
+    - "drought"
+    - "global change"
+  description: "Increased drought in the context of climate warming will impact the structure, composition and functioning of the vegetation. The main objective of this project is to improve the ability to predict vegetation responses to drought stress and climate warming, taking into account different functional dimensions, intra- and interspecific variability of traits and their coordination at different scales. These issues will be addressed through global database analysis, community-level field sampling along environmental gradients and drought simulation experiments."
+  image: "/img/projects/imaginary_maps.webp"
+  path: "https://www.creaf.cat/accounting-trait-coordination-and-evolutionary-history-improve-our-capacity-predict-plant-performance-under-stress"

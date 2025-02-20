@@ -1,0 +1,13 @@
+---
+title: "Media / Science & Art"
+listing:
+  - id: art
+    contents: "*.qmd"
+    type: grid
+    sort: false
+---
+
+I don't have pretty clear what should be here.
+
+::: {#art}
+:::

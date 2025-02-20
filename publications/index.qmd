@@ -1,0 +1,19 @@
+---
+title: "Publications"
+format:
+  html:
+    page-layout: full
+    grid:
+      body-width: 400px
+nocite: |
+  @*
+---
+
+The following is a non-exhaustive compilation of the EcoPhys group publications:
+
+::: {#refs}
+
+:::
+---
+
+To look at citation styles, see here: [https://www.zotero.org/styles](https://www.zotero.org/styles)
